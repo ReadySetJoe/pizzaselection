@@ -16,3 +16,4 @@
 
 # cache
 __pycache__
+db.sqlite
